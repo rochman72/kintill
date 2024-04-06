@@ -1,7 +1,7 @@
 {
   "name": "kintil",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
@@ -10,6 +10,9 @@
   },
   "dependencies": {
     "react": "^18",
+    "suciptoo": "0.1.0",
+    "totolomok": "1.0.2",
+    "yuzz": "1.2.2",
     "react-dom": "^18",
     "next": "14.1.4"
   },
@@ -23,5 +26,20 @@
     "tailwindcss": "^3.3.0",
     "eslint": "^8",
     "eslint-config-next": "14.1.4"
-  }
+  },
+  "description": "This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).",
+  "main": "postcss.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rochman72/kintill.git"
+  },
+  "keywords": [
+    "kintil"
+  ],
+  "author": "rochman72",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rochman72/kintill/issues"
+  },
+  "homepage": "https://github.com/rochman72/kintill#readme"
 }
