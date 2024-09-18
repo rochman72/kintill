@@ -14,7 +14,7 @@
     "totolomok": "1.0.2",
     "yuzz": "1.2.2",
     "react-dom": "^18",
-    "next": "14.1.4"
+    "next": "14.2.10"
   },
   "devDependencies": {
     "typescript": "^5",
